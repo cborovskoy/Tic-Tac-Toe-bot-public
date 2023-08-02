@@ -18,14 +18,14 @@
 <tr>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/17307616633d5fb4d2bd38643a2a3729d546a094/pics/logo_python.svg"
            alt="Logo Python" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/17307616633d5fb4d2bd38643a2a3729d546a094/pics/logo_python-telegram-bot.png"
-           alt="Logo python-telegram-bot" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/246a967fcff149831ddbe7e6f8522694223932f2/pics/logo_aiogram.png"
+           alt="Logo aiogram" width="40" height="40"/></td>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83475c612d8f7c609075cc9a19ee62dc36af7b8a/pics/logo_sqlite3.svg"
            alt="Logo SQLite" width="40" height="40"/></td>
 </tr> 
 <tr>
   <td>Python</td>
-  <td>python-telegram-bot</td>
+  <td>aiogram</td>
   <td>SQLite</td>
 </tr>
 </table>
